@@ -1,6 +1,6 @@
 # JobHunt - Job Portal Frontend  
 
-🚀 A fully responsive job portal **UI** built with HTML, CSS, and JavaScript.  
+A fully responsive job portal **UI** built with HTML, CSS, and JavaScript.  
 This project provides an interactive design for job seekers to browse jobs and view details.  
 **Note:** This is a **frontend-only project**; job applications and postings are UI elements only, with no backend functionality.  
 

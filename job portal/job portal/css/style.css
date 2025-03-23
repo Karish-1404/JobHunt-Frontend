@@ -110,19 +110,6 @@ section{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .header{
     position:sticky;
     top:0;left:0;right:0;
@@ -886,24 +873,6 @@ section{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, 30rem);
@@ -955,22 +924,6 @@ section{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media(max-width:991px){
     html{
         font-size: 55%;
@@ -987,8 +940,6 @@ section{
         display: inline-block;
     }
 
-
-    
 
     .header .flex .navbar{
         position:absolute;
@@ -1027,19 +978,6 @@ section{
     font-size: 4rem;
     padding: 4rem 2rem;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
